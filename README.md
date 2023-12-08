@@ -3,7 +3,7 @@ A Swift 3 implementation of BMGlyphLabel and BMGlyphFont that makes it easy to a
 
 This code is based on [BMGlphyLabelSwift](https://github.com/tapouillo/BMGlyphLabelSwift) by Stéphane Queraud but has been updated to Swift 3 and some new functionality has been added.
 
-##How to use
+## How to use
 
 Include the two files in *BMGlyphLabel* folder in your project:
 
@@ -50,13 +50,13 @@ You can also change how the label is rendered:
 	label.filteringMode    = .nearest // This will render pixel fonts crisply
 	
 
-##Credits
+## Credits
 BMGlyphLabel was created with heavy inspiration from [BMGlphyLabelSwift](https://github.com/tapouillo/BMGlyphLabelSwift) by Stéphane Queraud. I did not fork it because I wanted to optimize it as much as possible to Swift 3 and add new functionality I needed for my own games.
 
 BMGlyph can be downloaded from the [official BMGlyph website](https://www.bmglyph.com/).
 
 
-##License
+## License
 
 MIT License
 
